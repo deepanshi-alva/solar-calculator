@@ -68,14 +68,14 @@ export default function Home() {
         {thanks && !loading && (
           <div className="text-green-300 text-lg font-semibold">
             🙏 Thank you for visiting! <br />
-            We hope to see you again at <span className="text-green-400">SKYGREEN</span>.
+            We hope to see you again in future.
           </div>
         )}
       </div>
 
       {/* Footer Branding */}
       <p className="mt-12 text-gray-400 text-sm">
-        Powered by <span className="text-green-400 font-semibold">SKYGREEN</span> | India’s Trusted Solar Brand
+        Powered by <span className="text-green-400 font-semibold">SKYGREENENERGIES</span> | India’s Trusted Solar Brand
       </p>
     </div>
   );
