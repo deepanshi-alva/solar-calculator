@@ -75,7 +75,7 @@ export default function Home() {
 
       {/* Footer Branding */}
       <p className="mt-12 text-gray-400 text-sm">
-        Powered by <span className="text-green-400 font-semibold">SKYGREENENERGIES</span> | India’s Trusted Solar Brand
+        Powered by <span className="text-green-400 font-semibold">SKYGREEN ENERGIES</span> | India’s Trusted Solar Brand
       </p>
     </div>
   );
